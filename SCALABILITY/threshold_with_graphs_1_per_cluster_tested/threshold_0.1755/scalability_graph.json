@@ -1,0 +1,86 @@
+[
+    {
+        "feature_time": null,
+        "adding_time": 13.791410207748413,
+        "request_time": 7.171031713485718,
+        "nb_picture_added": 20,
+        "nb_picture_total_in_db": 20,
+        "nb_picture_requested": 10,
+        "iteration": 0,
+        "nb_picture_tried_to_be_added": 20,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 2,
+        "clusters_sizes": [
+            3,
+            17
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 39.822471618652344,
+        "request_time": 11.650618076324463,
+        "nb_picture_added": 40,
+        "nb_picture_total_in_db": 59,
+        "nb_picture_requested": 10,
+        "iteration": 1,
+        "nb_picture_tried_to_be_added": 40,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            2,
+            11,
+            46
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 86.66478276252747,
+        "request_time": 13.518863677978516,
+        "nb_picture_added": 60,
+        "nb_picture_total_in_db": 116,
+        "nb_picture_requested": 10,
+        "iteration": 2,
+        "nb_picture_tried_to_be_added": 60,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            2,
+            15,
+            99
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 193.54294347763062,
+        "request_time": 17.35832905769348,
+        "nb_picture_added": 80,
+        "nb_picture_total_in_db": 189,
+        "nb_picture_requested": 10,
+        "iteration": 3,
+        "nb_picture_tried_to_be_added": 80,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            2,
+            26,
+            161
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 266.69032526016235,
+        "request_time": 24.633829832077026,
+        "nb_picture_added": 85,
+        "nb_picture_total_in_db": 264,
+        "nb_picture_requested": 10,
+        "iteration": 4,
+        "nb_picture_tried_to_be_added": 85,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            2,
+            37,
+            225
+        ]
+    }
+]

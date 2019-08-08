@@ -1,0 +1,79 @@
+[
+    {
+        "request_id": "eda5a8fd-c196-53f9-81f8-3cf4c31a2e62",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "33fb286b-f872-5e8a-94e2-9d11a96b39cf",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "f3f603ce-4651-540c-80e0-b6f989812ba8",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "d2022e5c-79b8-5300-9af7-3b344c7a6408",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "83979f5d-9062-543c-a906-a64a20ef5abd",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "3c4f4f62-083d-575a-a11a-5d9616b8c9a2",
+        "status": "matches_not_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|c035d7e3-19c6-44e9-90ce-ad0ddbd74b9f",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|0fdb25c2-948f-476d-812f-b54537ad0634",
+                "decision": "MAYBE",
+                "distance": 0.016583980552837566
+            },
+            {
+                "cluster_id": "cluster|cb35a85e-768f-437d-ac2b-3f1e8d689d7c",
+                "decision": "YES",
+                "distance": 0.052455357142857144
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|c035d7e3-19c6-44e9-90ce-ad0ddbd74b9f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "8b615c70-57e6-57d7-86a2-5ec957c96efc"
+            },
+            {
+                "cluster_id": "cluster|0fdb25c2-948f-476d-812f-b54537ad0634",
+                "decision": "MAYBE",
+                "distance": 0.016583980552837566,
+                "image_id": "88f7f1b2-ca3e-56a0-9e44-dd8da12b0590"
+            },
+            {
+                "cluster_id": "cluster|cb35a85e-768f-437d-ac2b-3f1e8d689d7c",
+                "decision": "YES",
+                "distance": 0.052455357142857144,
+                "image_id": "6ba021d2-0e83-5da0-8f93-0fbd0a178bf0"
+            }
+        ],
+        "request_id": "8b615c70-57e6-57d7-86a2-5ec957c96efc",
+        "status": "matches_found"
+    },
+    {
+        "request_id": "2a9226b1-230b-57f4-a0a5-acd0cdff6884",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "6ac2d313-fec3-5e08-b296-0ecba55e0175",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "83a87df1-e7d8-597c-a91c-7c49d619a670",
+        "status": "matches_not_found"
+    }
+]

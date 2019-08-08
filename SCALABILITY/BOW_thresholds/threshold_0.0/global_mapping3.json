@@ -1,0 +1,79 @@
+[
+    {
+        "request_id": "28734a9e-9cc1-5caa-94bd-cf4cc0cd32d5",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "8735b411-6323-5a2f-b34f-4d29c6718047",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "39f616ca-3600-50a8-8b2c-9af609303908",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "70900e93-9c63-54d8-bac3-a97b6fb9e6fa",
+        "status": "matches_not_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|747e9533-92d1-4a80-a77a-e27eec9ace3f",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|254a7fd0-3b82-45fc-976c-51e12ba326bc",
+                "decision": "MAYBE",
+                "distance": 0.08639715714550801
+            },
+            {
+                "cluster_id": "cluster|575a40f2-7318-439b-8080-15e734801fff",
+                "decision": "MAYBE",
+                "distance": 0.08788263953915049
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|747e9533-92d1-4a80-a77a-e27eec9ace3f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "f2d6b120-b0e0-5a4c-b40f-b40dcaafb5d6"
+            },
+            {
+                "cluster_id": "cluster|254a7fd0-3b82-45fc-976c-51e12ba326bc",
+                "decision": "MAYBE",
+                "distance": 0.08639715714550801,
+                "image_id": "d18d16b8-a41e-5f2b-bee4-b5dd6f27aae5"
+            },
+            {
+                "cluster_id": "cluster|575a40f2-7318-439b-8080-15e734801fff",
+                "decision": "MAYBE",
+                "distance": 0.08788263953915049,
+                "image_id": "f67cc37f-dbbb-5a38-9826-8750a9813f63"
+            }
+        ],
+        "request_id": "f2d6b120-b0e0-5a4c-b40f-b40dcaafb5d6",
+        "status": "matches_found"
+    },
+    {
+        "request_id": "edcd9374-8873-5287-b5b5-fb84b71c2e22",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "de2e486d-6178-5504-b973-d466e1e9cbad",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "04ead598-912d-584f-8cfc-401dc8fe3af7",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "73a99a78-1909-5a90-8764-7d587e74e226",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "5e131d66-af2e-519e-b402-4bbc99100a08",
+        "status": "matches_not_found"
+    }
+]

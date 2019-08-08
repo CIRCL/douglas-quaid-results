@@ -1,0 +1,300 @@
+[
+    {
+        "request_id": "0b8584d5-cbfa-5f36-a73a-432b7327862f",
+        "status": "matches_not_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|7b174c62-0306-46df-a55f-fb2a292a383d",
+                "decision": "MAYBE",
+                "distance": 0.056972186874165553
+            },
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.07997581845238093
+            },
+            {
+                "cluster_id": "cluster|06eddaf0-e405-4ec3-8e62-2e5463e00515",
+                "decision": "MAYBE",
+                "distance": 0.08427759511743886
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|7b174c62-0306-46df-a55f-fb2a292a383d",
+                "decision": "MAYBE",
+                "distance": 0.03903348708122631,
+                "image_id": "8a724e2f-c551-5d6c-9ee8-5e668bfe7e97"
+            },
+            {
+                "cluster_id": "cluster|7b174c62-0306-46df-a55f-fb2a292a383d",
+                "decision": "MAYBE",
+                "distance": 0.056972186874165553,
+                "image_id": "da047af8-2b3c-5e87-bb90-90da687ae688"
+            },
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.07997581845238093,
+                "image_id": "5e131d66-af2e-519e-b402-4bbc99100a08"
+            },
+            {
+                "cluster_id": "cluster|06eddaf0-e405-4ec3-8e62-2e5463e00515",
+                "decision": "MAYBE",
+                "distance": 0.08427759511743886,
+                "image_id": "99b60169-9375-5f96-8867-8e2b256f94cd"
+            }
+        ],
+        "request_id": "07268616-237e-5970-a8a5-cadd92571f66",
+        "status": "matches_found"
+    },
+    {
+        "request_id": "ce75e7ba-eb4d-5421-a80c-326cce54afd1",
+        "status": "matches_not_found"
+    },
+    {
+        "request_id": "cc5f74e5-4ca7-53a9-97d5-fdea54116b4b",
+        "status": "matches_not_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.0684849330357143
+            },
+            {
+                "cluster_id": "cluster|7b174c62-0306-46df-a55f-fb2a292a383d",
+                "decision": "MAYBE",
+                "distance": 0.07540457589285715
+            },
+            {
+                "cluster_id": "cluster|06eddaf0-e405-4ec3-8e62-2e5463e00515",
+                "decision": "MAYBE",
+                "distance": 0.08641751405423284
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.0684849330357143,
+                "image_id": "88f7f1b2-ca3e-56a0-9e44-dd8da12b0590"
+            },
+            {
+                "cluster_id": "cluster|7b174c62-0306-46df-a55f-fb2a292a383d",
+                "decision": "MAYBE",
+                "distance": 0.07095550933441558,
+                "image_id": "8a724e2f-c551-5d6c-9ee8-5e668bfe7e97"
+            },
+            {
+                "cluster_id": "cluster|7b174c62-0306-46df-a55f-fb2a292a383d",
+                "decision": "MAYBE",
+                "distance": 0.07540457589285715,
+                "image_id": "da047af8-2b3c-5e87-bb90-90da687ae688"
+            },
+            {
+                "cluster_id": "cluster|06eddaf0-e405-4ec3-8e62-2e5463e00515",
+                "decision": "MAYBE",
+                "distance": 0.08641751405423284,
+                "image_id": "99b60169-9375-5f96-8867-8e2b256f94cd"
+            }
+        ],
+        "request_id": "6ac2d313-fec3-5e08-b296-0ecba55e0175",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|df11c6f6-115a-4931-93fe-91d61860365c",
+                "decision": "MAYBE",
+                "distance": 0.08884348332806571
+            },
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.08961245888157895
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.12368861607142854
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.0707146139705882,
+                "image_id": "ca9a5940-b890-5671-b70a-2a9c199984ab"
+            },
+            {
+                "cluster_id": "cluster|df11c6f6-115a-4931-93fe-91d61860365c",
+                "decision": "MAYBE",
+                "distance": 0.08884348332806571,
+                "image_id": "83a87df1-e7d8-597c-a91c-7c49d619a670"
+            },
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.08961245888157895,
+                "image_id": "5e131d66-af2e-519e-b402-4bbc99100a08"
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.12368861607142854,
+                "image_id": "981bcb25-2e15-5795-a459-004d0d580377"
+            }
+        ],
+        "request_id": "6aecdf4f-8c0d-557f-ad0c-22d8acec3129",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.00335259002701631
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.10357142857142855
+            },
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.10546223089118825
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.00335259002701631,
+                "image_id": "5e131d66-af2e-519e-b402-4bbc99100a08"
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.06574491831306989,
+                "image_id": "ca9a5940-b890-5671-b70a-2a9c199984ab"
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.10357142857142855,
+                "image_id": "981bcb25-2e15-5795-a459-004d0d580377"
+            },
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.10546223089118825,
+                "image_id": "88f7f1b2-ca3e-56a0-9e44-dd8da12b0590"
+            }
+        ],
+        "request_id": "51123ea8-b949-513b-99cb-1b53ce519713",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.09145302652310923
+            },
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.09692310652709357
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.09840673159246575
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.055293588789682546,
+                "image_id": "ca9a5940-b890-5671-b70a-2a9c199984ab"
+            },
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.09145302652310923,
+                "image_id": "88f7f1b2-ca3e-56a0-9e44-dd8da12b0590"
+            },
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.09692310652709357,
+                "image_id": "5e131d66-af2e-519e-b402-4bbc99100a08"
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.09840673159246575,
+                "image_id": "981bcb25-2e15-5795-a459-004d0d580377"
+            }
+        ],
+        "request_id": "b708d2f3-079e-5c1c-bd45-d9b7703e4553",
+        "status": "matches_found"
+    },
+    {
+        "request_id": "7866be91-562c-543b-8e2f-f1d40f7aca1d",
+        "status": "matches_not_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.018587777634297496
+            },
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.09531035370879123
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.11481087561881187
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|524d2fc1-d5db-43f0-a231-cf41a41ee3aa",
+                "decision": "MAYBE",
+                "distance": 0.018587777634297496,
+                "image_id": "5e131d66-af2e-519e-b402-4bbc99100a08"
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.0674347158218126,
+                "image_id": "ca9a5940-b890-5671-b70a-2a9c199984ab"
+            },
+            {
+                "cluster_id": "cluster|9661150e-4f26-44bd-bcf8-ff10bf4c6973",
+                "decision": "MAYBE",
+                "distance": 0.09531035370879123,
+                "image_id": "88f7f1b2-ca3e-56a0-9e44-dd8da12b0590"
+            },
+            {
+                "cluster_id": "cluster|022febbb-0058-4d6b-94f9-495826d4e9e1",
+                "decision": "MAYBE",
+                "distance": 0.11481087561881187,
+                "image_id": "981bcb25-2e15-5795-a459-004d0d580377"
+            }
+        ],
+        "request_id": "3d132aab-cbfa-562b-b1fa-d4db19a7f1de",
+        "status": "matches_found"
+    }
+]

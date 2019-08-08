@@ -1,0 +1,95 @@
+[
+    {
+        "feature_time": null,
+        "adding_time": 13.828057765960693,
+        "request_time": 7.170855283737183,
+        "nb_picture_added": 20,
+        "nb_picture_total_in_db": 20,
+        "nb_picture_requested": 10,
+        "iteration": 0,
+        "nb_picture_tried_to_be_added": 20,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 2,
+        "clusters_sizes": [
+            3,
+            17
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 33.752182483673096,
+        "request_time": 9.547120571136475,
+        "nb_picture_added": 40,
+        "nb_picture_total_in_db": 59,
+        "nb_picture_requested": 10,
+        "iteration": 1,
+        "nb_picture_tried_to_be_added": 40,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 4,
+        "clusters_sizes": [
+            1,
+            2,
+            11,
+            45
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 85.53011441230774,
+        "request_time": 11.136483430862427,
+        "nb_picture_added": 60,
+        "nb_picture_total_in_db": 116,
+        "nb_picture_requested": 10,
+        "iteration": 2,
+        "nb_picture_tried_to_be_added": 60,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 5,
+        "clusters_sizes": [
+            1,
+            1,
+            2,
+            15,
+            97
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 179.73430514335632,
+        "request_time": 16.69904661178589,
+        "nb_picture_added": 80,
+        "nb_picture_total_in_db": 189,
+        "nb_picture_requested": 10,
+        "iteration": 3,
+        "nb_picture_tried_to_be_added": 80,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 6,
+        "clusters_sizes": [
+            1,
+            1,
+            1,
+            2,
+            26,
+            158
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 241.84403777122498,
+        "request_time": 20.978809595108032,
+        "nb_picture_added": 85,
+        "nb_picture_total_in_db": 264,
+        "nb_picture_requested": 10,
+        "iteration": 4,
+        "nb_picture_tried_to_be_added": 85,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 6,
+        "clusters_sizes": [
+            1,
+            1,
+            1,
+            2,
+            38,
+            221
+        ]
+    }
+]

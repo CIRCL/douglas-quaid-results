@@ -1,0 +1,107 @@
+[
+    {
+        "feature_time": null,
+        "adding_time": 13.94621992111206,
+        "request_time": 9.086652755737305,
+        "nb_picture_added": 20,
+        "nb_picture_total_in_db": 20,
+        "nb_picture_requested": 10,
+        "iteration": 0,
+        "nb_picture_tried_to_be_added": 20,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            1,
+            2,
+            17
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 36.18270540237427,
+        "request_time": 11.133906841278076,
+        "nb_picture_added": 40,
+        "nb_picture_total_in_db": 59,
+        "nb_picture_requested": 10,
+        "iteration": 1,
+        "nb_picture_tried_to_be_added": 40,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 5,
+        "clusters_sizes": [
+            1,
+            2,
+            2,
+            9,
+            45
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 84.36148953437805,
+        "request_time": 9.814598560333252,
+        "nb_picture_added": 60,
+        "nb_picture_total_in_db": 116,
+        "nb_picture_requested": 10,
+        "iteration": 2,
+        "nb_picture_tried_to_be_added": 60,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 7,
+        "clusters_sizes": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            13,
+            96
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 184.3018398284912,
+        "request_time": 17.159791469573975,
+        "nb_picture_added": 80,
+        "nb_picture_total_in_db": 189,
+        "nb_picture_requested": 10,
+        "iteration": 3,
+        "nb_picture_tried_to_be_added": 80,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 10,
+        "clusters_sizes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            22,
+            156
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 241.88283014297485,
+        "request_time": 20.71342372894287,
+        "nb_picture_added": 85,
+        "nb_picture_total_in_db": 264,
+        "nb_picture_requested": 10,
+        "iteration": 4,
+        "nb_picture_tried_to_be_added": 85,
+        "nb_picture_tried_to_be_requested": 10,
+        "nb_clusters_in_db": 10,
+        "clusters_sizes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            4,
+            34,
+            218
+        ]
+    }
+]

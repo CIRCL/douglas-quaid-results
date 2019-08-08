@@ -1,0 +1,77 @@
+[
+    {
+        "feature_time": null,
+        "adding_time": 12.429425239562988,
+        "request_time": 7.365552186965942,
+        "nb_picture_added": 20,
+        "nb_picture_total_in_db": 20,
+        "nb_picture_requested": 10,
+        "iteration": 0,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            1,
+            3,
+            16
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 30.03161334991455,
+        "request_time": 9.25071382522583,
+        "nb_picture_added": 40,
+        "nb_picture_total_in_db": 59,
+        "nb_picture_requested": 10,
+        "iteration": 1,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            1,
+            5,
+            53
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 60.50681734085083,
+        "request_time": 14.313281774520874,
+        "nb_picture_added": 60,
+        "nb_picture_total_in_db": 118,
+        "nb_picture_requested": 10,
+        "iteration": 2,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            1,
+            11,
+            106
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 110.38059163093567,
+        "request_time": 13.476254940032959,
+        "nb_picture_added": 80,
+        "nb_picture_total_in_db": 194,
+        "nb_picture_requested": 10,
+        "iteration": 3,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            1,
+            20,
+            173
+        ]
+    },
+    {
+        "feature_time": null,
+        "adding_time": 154.2648742198944,
+        "request_time": 8.249282836914062e-05,
+        "nb_picture_added": 95,
+        "nb_picture_total_in_db": 271,
+        "nb_picture_requested": 0,
+        "iteration": 4,
+        "nb_clusters_in_db": 3,
+        "clusters_sizes": [
+            1,
+            30,
+            240
+        ]
+    }
+]

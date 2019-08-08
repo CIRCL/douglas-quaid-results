@@ -1,0 +1,10 @@
+[
+    {
+        "algo_name": "BOW_ORB",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.08,
+        "threshold_maybe_to_no": 0.32,
+        "distance_weight": 1,
+        "decision_weight": 1
+    }
+]
