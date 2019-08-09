@@ -1,0 +1,18 @@
+{
+    "DB_SCRIPTS_PATH": "carlhauser_server/Data/database_scripts",
+    "DB_SCRIPTS_PATH_CACHE": "carlhauser_server/Data/database_scripts/cache",
+    "DB_SCRIPTS_PATH_STORAGE": "carlhauser_server/Data/database_scripts/storage",
+    "DB_SCRIPTS_PATH_TEST": "carlhauser_server/Data/database_scripts/test",
+    "DB_SOCKETS_PATH": "carlhauser_server/Data/database_sockets",
+    "DB_SOCKETS_PATH_CACHE": "carlhauser_server/Data/database_sockets/cache.sock",
+    "DB_SOCKETS_PATH_STORAGE": "carlhauser_server/Data/database_sockets/storage.sock",
+    "DB_SOCKETS_PATH_TEST": "carlhauser_server/Data/database_sockets/test.sock",
+    "DB_DATA_PATH": "carlhauser_server/Data/database_data",
+    "REQUEST_EXPIRATION": 86400,
+    "ANSWER_EXPIRATION": 86400,
+    "ADDER_WORKER_NB": 2,
+    "ADDER_WAIT_SEC": 1,
+    "REQUESTER_WORKER_NB": 2,
+    "REQUESTER_WAIT_SEC": 1,
+    "ONLY_TEST_DB": false
+}

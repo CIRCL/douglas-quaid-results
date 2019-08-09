@@ -1,0 +1,86 @@
+{
+    "scores": [
+        [
+            " label=advanzia id=f13ca39c-5d18-4a40-9ba7-207791dcb9ab image=anchor.png members=['30d253578294bd3ec6d28a693bcc685d1381c3f6', '298c55174bace7c43fefa90f388bda2882641fd0', 'f84ce08be69316a3f3c409188e3761644937e4be'] group=anchor",
+            " label= id=cluster|4474d0eb-c7f1-4b16-a4d5-cd71ec475d2f image= members=['298c55174bace7c43fefa90f388bda2882641fd0'] group=",
+            "P=3 N=18 ACC=0.9047619047619048 F1=0.5 TP=1 TN=18 FP=0 FN=2 TPR=0.3333333333333333 TNR=1.0 PPV=1.0 NPV=0.9 FNR=0.6666666666666666 FPR=0.0"
+        ],
+        [
+            " label=microsoft id=72fe9b60-0875-47ef-a6d9-59a112bed433 image=anchor.png members=['1db337aff7c1a97d2bb9276c1b9ed64506e22360', '86ba487331b6cc745711e7e6387ecd19210ed197', 'e6011cb8ecb4a9d86d40e8234b936fbf8f69d60a'] group=anchor",
+            " label= id=cluster|93163888-4b3b-45a6-bcf5-52f35e97e55d image= members=['86ba487331b6cc745711e7e6387ecd19210ed197'] group=",
+            "P=3 N=18 ACC=0.9047619047619048 F1=0.5 TP=1 TN=18 FP=0 FN=2 TPR=0.3333333333333333 TNR=1.0 PPV=1.0 NPV=0.9 FNR=0.6666666666666666 FPR=0.0"
+        ],
+        [
+            " label=csgo id=c44833a8-6576-4fe1-bbfe-7a468c1bf4e5 image=anchor.png members=['0fd644c69bfb02c41dcfae3d847f6fe64a1986a0', '519dd1921eea0ad05b64e5d3b9603ff7325ced1c'] group=anchor",
+            " label= id=cluster|6cd5e07d-9138-4d6e-b485-49c89ce82094 image= members=['519dd1921eea0ad05b64e5d3b9603ff7325ced1c'] group=",
+            "P=2 N=19 ACC=0.9523809523809523 F1=0.6666666666666666 TP=1 TN=19 FP=0 FN=1 TPR=0.5 TNR=1.0 PPV=1.0 NPV=0.95 FNR=0.5 FPR=0.0"
+        ],
+        [
+            " label=KMC id=4f85bff0-666c-4f4a-8f3a-d932812ab45d image=anchor.png members=['91746a2824c2988a4d1fca1e169ce34f6c1bcab4', '9796bf4a4a6086c1febdce46279ecee630177fbe'] group=anchor",
+            " label= id=cluster|99883024-4307-4c23-a183-319cbd56c609 image= members=['9796bf4a4a6086c1febdce46279ecee630177fbe'] group=",
+            "P=2 N=19 ACC=0.9523809523809523 F1=0.6666666666666666 TP=1 TN=19 FP=0 FN=1 TPR=0.5 TNR=1.0 PPV=1.0 NPV=0.95 FNR=0.5 FPR=0.0"
+        ],
+        [
+            " label=webmail id=9e976db1-5be0-482a-98fa-eb69cde8009c image=anchor.png members=['9173f0ea8a870ab7dd620dedde742898f3207701', '8147c440ebba74324eecf420f1966ec42be1e8da'] group=anchor",
+            " label= id=cluster|2dcb8fb0-11d7-4a90-8c34-7c957001722f image= members=['8147c440ebba74324eecf420f1966ec42be1e8da'] group=",
+            "P=2 N=19 ACC=0.9523809523809523 F1=0.6666666666666666 TP=1 TN=19 FP=0 FN=1 TPR=0.5 TNR=1.0 PPV=1.0 NPV=0.95 FNR=0.5 FPR=0.0"
+        ],
+        [
+            " label=circl id=a5a393f6-05f7-4d91-be1a-845ce182bed7 image=anchor.png members=['05335cabf4d163c323b693e10cd96d0a9f3478eb', 'fcc1d1c7a108666befb8fa705c8bffb7da84df68'] group=anchor",
+            " label= id=cluster|d93bd042-e008-4899-aea9-377bb8cb59bd image= members=['05335cabf4d163c323b693e10cd96d0a9f3478eb'] group=",
+            "P=2 N=19 ACC=0.9523809523809523 F1=0.6666666666666666 TP=1 TN=19 FP=0 FN=1 TPR=0.5 TNR=1.0 PPV=1.0 NPV=0.95 FNR=0.5 FPR=0.0"
+        ],
+        [
+            " label=mixed id=9bdd4e00-2572-4506-9b20-287c256ec961 image=anchor.png members=['a0e5b73715b49a7e70ffcde7c1d8da1833f4d77c'] group=anchor",
+            " label= id=cluster|87498bfe-a557-469c-b2e9-ab3131768c87 image= members=['a0e5b73715b49a7e70ffcde7c1d8da1833f4d77c'] group=",
+            "P=1 N=20 ACC=1.0 F1=1.0 TP=1 TN=20 FP=0 FN=0 TPR=1.0 TNR=1.0 PPV=1.0 NPV=1.0 FNR=0.0 FPR=0.0"
+        ],
+        [
+            " label=404 id=34317a90-5c43-437a-b553-22ddfe03e8b4 image=anchor.png members=['77d1ff67557b05f6e89c0d6c767a2e22c42b560d'] group=anchor",
+            " label= id=cluster|c790e5a6-b23b-4685-9bf3-017b763164fb image= members=['77d1ff67557b05f6e89c0d6c767a2e22c42b560d'] group=",
+            "P=1 N=20 ACC=1.0 F1=1.0 TP=1 TN=20 FP=0 FN=0 TPR=1.0 TNR=1.0 PPV=1.0 NPV=1.0 FNR=0.0 FPR=0.0"
+        ],
+        [
+            " label=onedrive id=4833c354-bacc-43e2-9fda-bc4cd3a76fe5 image=anchor.png members=['95782ce549c515894f81fa52bfcb107872e1f7bc'] group=anchor",
+            " label= id=cluster|71a5a2ba-3eee-44af-843b-fdff09ef0223 image= members=['95782ce549c515894f81fa52bfcb107872e1f7bc'] group=",
+            "P=1 N=20 ACC=1.0 F1=1.0 TP=1 TN=20 FP=0 FN=0 TPR=1.0 TNR=1.0 PPV=1.0 NPV=1.0 FNR=0.0 FPR=0.0"
+        ],
+        [
+            " label=outloook id=c45c78c7-eef4-48ed-b178-5f70ca142233 image=anchor.png members=['4a9cc6dd42789a335e2bfe194b50636da25bf045'] group=anchor",
+            " label= id=cluster|e5a95235-8421-4b61-aa7f-eb24e55026e4 image= members=['4a9cc6dd42789a335e2bfe194b50636da25bf045'] group=",
+            "P=1 N=20 ACC=1.0 F1=1.0 TP=1 TN=20 FP=0 FN=0 TPR=1.0 TNR=1.0 PPV=1.0 NPV=1.0 FNR=0.0 FPR=0.0"
+        ],
+        [
+            " label=wellfargo id=aaa76c2f-30d6-4e89-ac0b-8c79855290a5 image=anchor.png members=['ec5aa1946a0cef1227be2a1a8a8c417ad8eeb2f9'] group=anchor",
+            " label= id=cluster|0cd88db6-1dcc-49bc-a637-e66b1df4eb92 image= members=['ec5aa1946a0cef1227be2a1a8a8c417ad8eeb2f9'] group=",
+            "P=1 N=20 ACC=1.0 F1=1.0 TP=1 TN=20 FP=0 FN=0 TPR=1.0 TNR=1.0 PPV=1.0 NPV=1.0 FNR=0.0 FPR=0.0"
+        ],
+        [
+            " label=anchor id=be5be112-5d3b-4a35-8586-787ff7df0c7c image=anchor.png members=['262f2d6787f0f4da1a2fc3eaa184588b0867a0de'] group=anchor",
+            " label= id=cluster|e5a95235-8421-4b61-aa7f-eb24e55026e4 image= members=['4a9cc6dd42789a335e2bfe194b50636da25bf045'] group=",
+            "P=1 N=20 ACC=0.9047619047619048 F1=0.0 TP=0 TN=19 FP=1 FN=1 TPR=0.0 TNR=0.95 PPV=0.0 NPV=0.95 FNR=1.0 FPR=0.05"
+        ]
+    ],
+    "overview": {
+        "P": 1.6666666666666667,
+        "N": 19.333333333333332,
+        "total_nb_elements": 21.0,
+        "TP": 0.9166666666666666,
+        "FP": 0.08333333333333333,
+        "TN": 19.25,
+        "FN": 0.75,
+        "TPR": 0.6388888888888888,
+        "TNR": 0.9958333333333332,
+        "PPV": 0.9166666666666666,
+        "NPV": 0.9625,
+        "FNR": 0.3611111111111111,
+        "FPR": 0.004166666666666667,
+        "FDR": 0.08333333333333333,
+        "FOR": 0.0375,
+        "ACC": 0.9603174603174605,
+        "F1": 0.7222222222222222,
+        "MCC": null,
+        "BM": null,
+        "MK": null
+    }
+}

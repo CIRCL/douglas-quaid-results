@@ -1,0 +1,458 @@
+{
+    "meta_1": {
+        "source": "VISJS"
+    },
+    "meta_2": {
+        "source": "DBDUMP"
+    },
+    "clusters": [
+        {
+            "label": "advanzia",
+            "id": "f13ca39c-5d18-4a40-9ba7-207791dcb9ab",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "298c55174bace7c43fefa90f388bda2882641fd0",
+                "30d253578294bd3ec6d28a693bcc685d1381c3f6",
+                "f84ce08be69316a3f3c409188e3761644937e4be"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "csgo",
+            "id": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "0fd644c69bfb02c41dcfae3d847f6fe64a1986a0",
+                "519dd1921eea0ad05b64e5d3b9603ff7325ced1c"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "KMC",
+            "id": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "91746a2824c2988a4d1fca1e169ce34f6c1bcab4",
+                "9796bf4a4a6086c1febdce46279ecee630177fbe"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "microsoft",
+            "id": "72fe9b60-0875-47ef-a6d9-59a112bed433",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "1db337aff7c1a97d2bb9276c1b9ed64506e22360",
+                "86ba487331b6cc745711e7e6387ecd19210ed197",
+                "e6011cb8ecb4a9d86d40e8234b936fbf8f69d60a"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "webmail",
+            "id": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "8147c440ebba74324eecf420f1966ec42be1e8da",
+                "9173f0ea8a870ab7dd620dedde742898f3207701"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "circl",
+            "id": "a5a393f6-05f7-4d91-be1a-845ce182bed7",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "05335cabf4d163c323b693e10cd96d0a9f3478eb",
+                "fcc1d1c7a108666befb8fa705c8bffb7da84df68"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "mixed",
+            "id": "9bdd4e00-2572-4506-9b20-287c256ec961",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "a0e5b73715b49a7e70ffcde7c1d8da1833f4d77c"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "404",
+            "id": "34317a90-5c43-437a-b553-22ddfe03e8b4",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "77d1ff67557b05f6e89c0d6c767a2e22c42b560d"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "onedrive",
+            "id": "4833c354-bacc-43e2-9fda-bc4cd3a76fe5",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "95782ce549c515894f81fa52bfcb107872e1f7bc"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "outloook",
+            "id": "c45c78c7-eef4-48ed-b178-5f70ca142233",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "4a9cc6dd42789a335e2bfe194b50636da25bf045"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "wellfargo",
+            "id": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "ec5aa1946a0cef1227be2a1a8a8c417ad8eeb2f9"
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "anchor",
+            "id": "be5be112-5d3b-4a35-8586-787ff7df0c7c",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                "262f2d6787f0f4da1a2fc3eaa184588b0867a0de"
+            ],
+            "group": "anchor"
+        }
+    ],
+    "nodes": [
+        {
+            "label": "",
+            "id": "77d1ff67557b05f6e89c0d6c767a2e22c42b560d",
+            "image": "404.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "30d253578294bd3ec6d28a693bcc685d1381c3f6",
+            "image": "advanzia1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "298c55174bace7c43fefa90f388bda2882641fd0",
+            "image": "advanzia4.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "f84ce08be69316a3f3c409188e3761644937e4be",
+            "image": "advanzia3.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "a0e5b73715b49a7e70ffcde7c1d8da1833f4d77c",
+            "image": "alllogos.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "05335cabf4d163c323b693e10cd96d0a9f3478eb",
+            "image": "circl_secure.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "fcc1d1c7a108666befb8fa705c8bffb7da84df68",
+            "image": "circl_webmail.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "519dd1921eea0ad05b64e5d3b9603ff7325ced1c",
+            "image": "csgo1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "0fd644c69bfb02c41dcfae3d847f6fe64a1986a0",
+            "image": "csgo2.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "91746a2824c2988a4d1fca1e169ce34f6c1bcab4",
+            "image": "kbc1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "9796bf4a4a6086c1febdce46279ecee630177fbe",
+            "image": "kbc2.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "86ba487331b6cc745711e7e6387ecd19210ed197",
+            "image": "microsoft1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "1db337aff7c1a97d2bb9276c1b9ed64506e22360",
+            "image": "microsoft2.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "e6011cb8ecb4a9d86d40e8234b936fbf8f69d60a",
+            "image": "microsoft3.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "95782ce549c515894f81fa52bfcb107872e1f7bc",
+            "image": "onedrive.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "4a9cc6dd42789a335e2bfe194b50636da25bf045",
+            "image": "outlook_app.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "262f2d6787f0f4da1a2fc3eaa184588b0867a0de",
+            "image": "pleinbanque.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "8147c440ebba74324eecf420f1966ec42be1e8da",
+            "image": "webmail1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "9173f0ea8a870ab7dd620dedde742898f3207701",
+            "image": "webmail2.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": "ec5aa1946a0cef1227be2a1a8a8c417ad8eeb2f9",
+            "image": "wellsfargo.png",
+            "shape": "image"
+        }
+    ],
+    "edges": [
+        {
+            "from": "30d253578294bd3ec6d28a693bcc685d1381c3f6",
+            "to": "f13ca39c-5d18-4a40-9ba7-207791dcb9ab",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "298c55174bace7c43fefa90f388bda2882641fd0",
+            "to": "f13ca39c-5d18-4a40-9ba7-207791dcb9ab",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "f84ce08be69316a3f3c409188e3761644937e4be",
+            "to": "f13ca39c-5d18-4a40-9ba7-207791dcb9ab",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "519dd1921eea0ad05b64e5d3b9603ff7325ced1c",
+            "to": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "519dd1921eea0ad05b64e5d3b9603ff7325ced1c",
+            "to": "ERROR",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "0fd644c69bfb02c41dcfae3d847f6fe64a1986a0",
+            "to": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "91746a2824c2988a4d1fca1e169ce34f6c1bcab4",
+            "to": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "91746a2824c2988a4d1fca1e169ce34f6c1bcab4",
+            "to": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "9796bf4a4a6086c1febdce46279ecee630177fbe",
+            "to": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "9796bf4a4a6086c1febdce46279ecee630177fbe",
+            "to": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "86ba487331b6cc745711e7e6387ecd19210ed197",
+            "to": "72fe9b60-0875-47ef-a6d9-59a112bed433",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "1db337aff7c1a97d2bb9276c1b9ed64506e22360",
+            "to": "72fe9b60-0875-47ef-a6d9-59a112bed433",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "e6011cb8ecb4a9d86d40e8234b936fbf8f69d60a",
+            "to": "72fe9b60-0875-47ef-a6d9-59a112bed433",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "8147c440ebba74324eecf420f1966ec42be1e8da",
+            "to": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "8147c440ebba74324eecf420f1966ec42be1e8da",
+            "to": "be5be112-5d3b-4a35-8586-787ff7df0c7c",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "9173f0ea8a870ab7dd620dedde742898f3207701",
+            "to": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+            "color": {
+                "color": "black"
+            }
+        },
+        {
+            "from": "05335cabf4d163c323b693e10cd96d0a9f3478eb",
+            "to": "a5a393f6-05f7-4d91-be1a-845ce182bed7",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "05335cabf4d163c323b693e10cd96d0a9f3478eb",
+            "to": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "fcc1d1c7a108666befb8fa705c8bffb7da84df68",
+            "to": "a5a393f6-05f7-4d91-be1a-845ce182bed7",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "fcc1d1c7a108666befb8fa705c8bffb7da84df68",
+            "to": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "a0e5b73715b49a7e70ffcde7c1d8da1833f4d77c",
+            "to": "9bdd4e00-2572-4506-9b20-287c256ec961",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "a0e5b73715b49a7e70ffcde7c1d8da1833f4d77c",
+            "to": "4833c354-bacc-43e2-9fda-bc4cd3a76fe5",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "77d1ff67557b05f6e89c0d6c767a2e22c42b560d",
+            "to": "34317a90-5c43-437a-b553-22ddfe03e8b4",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "95782ce549c515894f81fa52bfcb107872e1f7bc",
+            "to": "4833c354-bacc-43e2-9fda-bc4cd3a76fe5",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "4a9cc6dd42789a335e2bfe194b50636da25bf045",
+            "to": "c45c78c7-eef4-48ed-b178-5f70ca142233",
+            "color": {
+                "color": "orange"
+            }
+        },
+        {
+            "from": "4a9cc6dd42789a335e2bfe194b50636da25bf045",
+            "to": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "color": {
+                "color": "red"
+            }
+        },
+        {
+            "from": "ec5aa1946a0cef1227be2a1a8a8c417ad8eeb2f9",
+            "to": "aaa76c2f-30d6-4e89-ac0b-8c79855290a5",
+            "color": {
+                "color": "green"
+            }
+        },
+        {
+            "from": "262f2d6787f0f4da1a2fc3eaa184588b0867a0de",
+            "to": "be5be112-5d3b-4a35-8586-787ff7df0c7c",
+            "color": {
+                "color": "black"
+            }
+        }
+    ]
+}

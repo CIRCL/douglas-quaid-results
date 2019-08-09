@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "source": "VISJS"
+    },
+    "clusters": [
+        {
+            "label": "csgo",
+            "id": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                8,
+                9
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "KMC",
+            "id": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                10,
+                11
+            ],
+            "group": "anchor"
+        },
+        {
+            "label": "webmail",
+            "id": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+            "image": "anchor.png",
+            "shape": "image",
+            "members": [
+                18,
+                19
+            ],
+            "group": "anchor"
+        }
+    ],
+    "nodes": [
+        {
+            "label": "",
+            "id": 8,
+            "image": "csgo1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": 9,
+            "image": "csgo2.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": 10,
+            "image": "kbc1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": 11,
+            "image": "kbc2.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": 18,
+            "image": "webmail1.png",
+            "shape": "image"
+        },
+        {
+            "label": "",
+            "id": 19,
+            "image": "webmail2.png",
+            "shape": "image"
+        }
+    ],
+    "edges": [
+        {
+            "from": 8,
+            "to": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+            "color": ""
+        },
+        {
+            "from": 9,
+            "to": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+            "color": ""
+        },
+        {
+            "from": 10,
+            "to": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+            "color": ""
+        },
+        {
+            "from": 11,
+            "to": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+            "color": ""
+        },
+        {
+            "from": 18,
+            "to": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+            "color": ""
+        },
+        {
+            "from": 19,
+            "to": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+            "color": ""
+        }
+    ]
+}
